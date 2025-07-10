@@ -1,0 +1,13 @@
+/* style.css
+  This file contains custom styles that are not covered by Tailwind CSS utility classes.
+*/
+
+/* Apply the 'Inter' font to the entire website */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Enable smooth scrolling when clicking on anchor links (e.g., #home, #about) */
+html {
+    scroll-behavior: smooth;
+}
